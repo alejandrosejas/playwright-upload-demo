@@ -1,0 +1,22 @@
+{
+  "name": "playwright-upload-demo",
+  "version": "1.0.0",
+  "description": "Simple Playwright project that shows how to upload files using steps and manipulating the DOM",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandrosejas/playwright-upload-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandrosejas/playwright-upload-demo/issues"
+  },
+  "homepage": "https://github.com/alejandrosejas/playwright-upload-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.6"
+  }
+}
